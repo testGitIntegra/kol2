@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <description>Version2 record type for Sprint__c</description>
+    <fullName>Version2</fullName>
+    <label>Version2</label>
+</RecordType>
