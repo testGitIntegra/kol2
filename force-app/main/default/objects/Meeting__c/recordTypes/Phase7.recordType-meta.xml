@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <description>Phase7 record type for Meeting__c</description>
+    <fullName>Phase7</fullName>
+    <label>Phase7</label>
+</RecordType>
